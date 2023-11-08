@@ -2,7 +2,7 @@ require('dotenv').config();
 
 module.exports = {
     mongo_connection_string: process.env.MONGO_CONNECTION_URL,
-    server_port: process.env.PORT,
+    server_port: process.env.PORT || 5000,
     database_connected: "Database connection successfully",
     database_unconnected: "Unable to connect to database, Check mongo atlas console.",
     constant_messages: {
