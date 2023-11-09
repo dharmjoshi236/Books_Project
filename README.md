@@ -1,7 +1,7 @@
 
 # Books Api
 
-This is the project given by BrewCode LLC as a practical task for NodeJs developer Position.
+This is the project given by Brewapps LLC as a practical task for NodeJs developer Position.
 
 ## API Reference
 
